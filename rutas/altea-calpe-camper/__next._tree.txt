@@ -1,0 +1,4 @@
+:HL["/_next/static/css/a76f96347d1cee91.css","style"]
+:HL["/_next/static/css/99f2bddded063fe1.css","style"]
+:HL["/assets/ruta-portugal.webp","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"(public)","param":null,"prefetchHints":0,"slots":{"children":{"name":"rutas","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"altea-calpe-camper","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"JfnUc6NCb0hZhBcRDBEHt"}

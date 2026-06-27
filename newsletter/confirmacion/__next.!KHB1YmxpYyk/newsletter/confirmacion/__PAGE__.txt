@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[3078,["78","static/chunks/78-dfe79f95cc595d10.js","730","static/chunks/app/(public)/newsletter/confirmacion/page-ee7e2513d8c6d863.js"],""]
+3:I[6422,[],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"children":["$","section",null,{"className":"section container","aria-labelledby":"newsletter-thanks-title","children":["$","div",null,{"className":"section-heading centered","children":[["$","span",null,{"className":"eyebrow","children":"Newsletter"}],["$","h1",null,{"id":"newsletter-thanks-title","children":"¡Gracias por confirmar tu suscripción!"}],["$","p",null,{"children":"Ya formas parte de la comunidad Trotamundos Camper. Pronto recibirás en tu bandeja de entrada ofertas, rutas e inspiración camper."}],["$","div",null,{"style":{"marginTop":32},"children":["$","$L2",null,{"className":"button button-primary","href":"/","children":"Volver al inicio"}]}]]}]}]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"JfnUc6NCb0hZhBcRDBEHt"}
+5:null

@@ -1,0 +1,7 @@
+1:"$Sreact.fragment"
+2:I[9279,["78","static/chunks/78-dfe79f95cc595d10.js","155","static/chunks/app/(public)/newsletter/page-79c848071d9c49de.js"],"default"]
+3:I[3078,["78","static/chunks/78-dfe79f95cc595d10.js","155","static/chunks/app/(public)/newsletter/page-79c848071d9c49de.js"],""]
+4:I[6422,[],"OutletBoundary"]
+5:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"children":["$","section",null,{"className":"section container","aria-labelledby":"newsletter-page-title","children":[["$","div",null,{"className":"section-heading centered","children":[["$","span",null,{"className":"eyebrow","children":"Newsletter"}],["$","h1",null,{"id":"newsletter-page-title","children":"Más carretera. Más aventura."}],["$","p",null,{"children":"Recibe ofertas exclusivas, nuevas rutas, consejos camper e inspiración para tu próximo viaje antes que nadie."}]]}],["$","$L2",null,{}],["$","p",null,{"className":"text-center legal-text","style":{"marginTop":24},"children":["Al suscribirte aceptas nuestra"," ",["$","$L3",null,{"href":"/privacidad","children":"política de privacidad"}],". Puedes darte de baja en cualquier momento."]}]]}]}],null,["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"JfnUc6NCb0hZhBcRDBEHt"}
+6:null
